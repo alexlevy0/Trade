@@ -1,2 +1,2 @@
 # Trade
-Teck2 EPITECH
+C++ trading 
